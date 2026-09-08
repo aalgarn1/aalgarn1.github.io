@@ -223,13 +223,10 @@
       <a href="mailto:akafeer@kku.edu.sa">akafeer@kku.edu.sa</a>
       <span>Abha, Saudi Arabia</span>
     </div>
-
-    <span class="side-tag">AI ethics &amp; health informatics</span>
   </aside>
 
   <main>
     <section class="hero" id="about">
-      <p class="eyebrow">Information systems — King Khalid University</p>
       <h1 style="font-size:2.1rem; margin-bottom:1.1rem;">Ali Algarni</h1>
       <p class="lede">
         I work at the intersection of <strong>AI ethics</strong>, <strong>human-centered computing</strong>,
