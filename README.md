@@ -209,7 +209,7 @@
 <div class="wrap">
   <aside class="sidebar">
     <div class="name serif">Ali Algarni</div>
-    <div class="role">Faculty, Informatics and Computer Systems Department<br>King Khalid University</div>
+    <div class="role">Faculty, Informatics and Computer Systems Department@King Khalid University</div>
 
     <nav class="side-nav">
       <a href="#about">About</a>
